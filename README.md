@@ -8,4 +8,5 @@ Exploratory research using a visualization of geotagged ACLED conflict events in
 
 Later, pixel analysis of satellite images to attempt to quantify destruction using eigenvectors by creating an average image of region of Donetsk from 2018-2021:
 
+(Top 6 Eigenvectors)
 ![image](https://user-images.githubusercontent.com/28711175/166823280-1e637be9-0fa9-4336-982e-610c1125267d.png)
